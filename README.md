@@ -1,7 +1,7 @@
 # Fire-node
 
-Fire-node is just an alpine image with node, npm and firebase tools installed
-it uses the alpine image because is way smaller than the node one.
+Fire-node is just an alpine image with node, npm and firebase tools installed.
+It uses the alpine image because is way smaller than the node one.
 
  
 # Changelog
