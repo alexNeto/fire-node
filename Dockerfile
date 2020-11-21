@@ -6,7 +6,4 @@ RUN apk add --update npm && \
     npm install --global firebase-tools
 
 USER node
-
-RUN mkdir /home/node/work
-
-WORKDIR /home/node/work
+WORKDIR /home/node
